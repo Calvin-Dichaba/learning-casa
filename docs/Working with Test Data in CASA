@@ -154,6 +154,6 @@ cd DARA
 ## Lesson Learned
 
 Trailing spaces in directory names are difficult to spot but can cause
-confusing path and file-not-found errors. Verifying directory names early
+confusing path and file not found errors. Verifying directory names early
 using `ls -b` can save significant debugging time when working with CASA
 and the Linux terminal.
