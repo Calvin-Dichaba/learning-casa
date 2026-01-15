@@ -1,4 +1,5 @@
-This outlines a recommended workflow for handling test datasets
+---
+This is a recommended workflow for handling test datasets
 when starting CASA, with a focus on directory organisation and common
 terminal related pitfalls.
 
@@ -19,7 +20,7 @@ First, create a directory that will be used specifically for CASA work:
 
 ```bash
 mkdir test_data_casa
-
+````
 ## Navigating to the Data Location
 
 Before copying any files, it is important to confirm where you are currently
