@@ -84,7 +84,6 @@ tar -zxvf test_data.tar.gz
 This ensures that CASA operates only on files within the dedicated working
 directory, reducing the risk of path-related errors.
 
-````
 ## Common Pitfall: Trailing Spaces in Directory Names
 
 A subtle error encountered during this workflow was the presence of a
